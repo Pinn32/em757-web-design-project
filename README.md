@@ -3,7 +3,8 @@ A group web design project for EM757 Developing Interactivity at Boston Universi
 
 **🧑‍🤝‍🧑Group Members: Pinn, Mandy, Danica, Junli.**
 
-
+Group 3 in Fall 2025 EM757 Developing Interactivity, Section A1.  
+MA Emerging Media Studies, College of Communication, Boston University.
 
 ## 🔗 Final Web Design
 View the live demo of our [final web design](https://bayanihanfinal.figma.site/).
