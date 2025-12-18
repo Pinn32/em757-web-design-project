@@ -47,7 +47,7 @@ View the live demo of our [final web design](https://bayanihanfinal.figma.site/)
 
 <!-- ![persona-sophia](persona/persona-sophia.jpg) -->
   
-### **Ramon**: Filipino Graduate Artist/Contributor
+### **Ramon**: Filipino Graduate Artist / Contributor
 
 <!-- ![persona-ramon](persona/persona-ramon.jpg) -->
 
