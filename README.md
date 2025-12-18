@@ -36,8 +36,27 @@ View the live demo of our [final web design](https://bayanihanfinal.figma.site/)
     - Publish and validate with target users
 
 ## 👥 Personas
-- **Sophia**: Filipino-American undergraduate reader
-- **Ramon**: Filipino graduate artist/contributor
+### **Sophia**: Filipino-American Undergraduate Reader
+
+<img
+    src="persona/persona-sophia.jpg"
+    alt="persona-sophia"
+    title="Persona: Sophia Laforteza"
+    width=700px
+/>
+
+<!-- ![persona-sophia](persona/persona-sophia.jpg) -->
+  
+### **Ramon**: Filipino Graduate Artist/Contributor
+
+<!-- ![persona-ramon](persona/persona-ramon.jpg) -->
+
+<img
+    src="persona/persona-ramon.jpg"
+    alt="persona-sophia"
+    title="Persona: Sophia Laforteza"
+    width=700px
+/>
 
 ## 📸 Pages Preview
 
