@@ -1,5 +1,5 @@
-# Bayanihan Magazine Website Prototype
-A group web design project for EM757 Developing Interactivity at Boston University, aiming at redesigning the website for [Bayanihan](https://www.instagram.com/bayanihanbufsa/), the student-run Filipino arts & fashion magazine affiliated with [BUFSA](https://bufsa.weebly.com/) (Boston University Filipino Student Association).
+# Web Design for Bayanihan Magazine
+A group web design project for [EM757 Developing Interactivity](https://www.bu.edu/academics/com/courses/com-em-757/) at [Boston University](https://www.bu.edu/com/), aiming at redesigning the website for [Bayanihan](https://www.instagram.com/bayanihanbufsa/), the student-run Filipino arts & fashion magazine affiliated with [BUFSA](https://bufsa.weebly.com/) (Boston University Filipino Student Association).
 
 **🧑‍🤝‍🧑Group Members: Pinn, Mandy, Danica, Junli.**
 
