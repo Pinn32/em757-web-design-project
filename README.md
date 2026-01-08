@@ -1,15 +1,15 @@
 # Web Design for Bayanihan Magazine
 A group web design project for [EM757 Developing Interactivity](https://www.bu.edu/academics/com/courses/com-em-757/) at [Boston University](https://www.bu.edu/com/), aiming at redesigning the website for [Bayanihan](https://www.instagram.com/bayanihanbufsa/), the student-run Filipino arts & fashion magazine affiliated with [BUFSA](https://bufsa.weebly.com/) (Boston University Filipino Student Association).
 
-**🧑‍🤝‍🧑Group Members: Pinn, Mandy, Danica, Junli.**
+## 🧑‍🤝‍🧑 Group Members
+**Pinn, Mandy, Danica, and Junli.**  
+Group 3 in EM757 Developing Interactivity (Section A1), 2025 Fall.
 
-Group 3 in Fall 2025 EM757 Developing Interactivity, Section A1.  
-MA Emerging Media Studies, College of Communication, Boston University.
-
-## 🔗 Final Web Design
-View the live demo of our [final web design](https://bayanihanfinal.figma.site/).
+## 🔗 Final Product
+~~View the live demo of our [final web design](https://bayanihanfinal.figma.site/).~~ (live demo under maintenance)
 
 ## 💡 Project Goals
+Redesign the website for *Bayanihan* to:
 - Enhance user experience and engagement for Filipino students and artists.
 - Improve mobile accessibility, navigation, and discoverability of the magazine’s content.
 - Support creative community-building and cultural storytelling.
@@ -20,32 +20,39 @@ View the live demo of our [final web design](https://bayanihanfinal.figma.site/)
 - Interactive features: likes, comments, share buttons.
 - Homepage with mysterial swiper for newly released issue.
 - Dedicated artist contributor portal (prototype).
-- Integrated search function with tags and suggestions.
+- Integrated search function with suggestions and tags as filters.
 
 ## 🔬 Design Process
-1. **Research & Analysis**
-    - User interviews and persona development (Sophia - reader, Ramon - creator)
-    - Content and competitor analysis
-2. **Ideation & Wireframing**
-    - Sitemap, user flow, low-fidelity sketches
-3. **High-Fidelity Design**
-    - Figma components and layout design
-    - Color scheme, typography, branding elements
-4. **Prototype & Testing**
-    - Interactive Figma prototype, feedback iterations
-    - Publish and validate with target users
+1. **Design Research**
+   - Stakeholder interviews
+   - Competitor analysis
+   - Goal & painpoint analysis
+2. **User Research**
+   - In-depth user interview
+   - Focus groups
+3. **Persona Construction**
+   - The reader - Sophia
+   - The artist - Ramon
+4. **Ideation & Wireframing**
+   - Sitemap, user flow, low-fidelity sketches
+5. **High-Fidelity Prototyping**
+   - Figma components, layout, and interaction design
+   - Color scheme, typography, branding elements
+6. **Testing**
+   - Figma prototype, user tests, and feedback iterations
+   - Publish and validate with target users
 
 ## 👥 Personas
 ### **Sophia**: Filipino-American Undergraduate Reader
 
+<!-- ![persona-sophia](persona/persona-sophia.jpg) -->
+
 <img
     src="persona/persona-sophia.jpg"
-    alt="persona-sophia"
+    alt="persona-sophia-reader"
     title="Persona: Sophia Laforteza"
     width=700px
 />
-
-<!-- ![persona-sophia](persona/persona-sophia.jpg) -->
   
 ### **Ramon**: Filipino Graduate Artist / Contributor
 
@@ -53,14 +60,14 @@ View the live demo of our [final web design](https://bayanihanfinal.figma.site/)
 
 <img
     src="persona/persona-ramon.jpg"
-    alt="persona-sophia"
-    title="Persona: Sophia Laforteza"
+    alt="persona-ramon-artist"
+    title="Persona: Ramon Santos"
     width=700px
 />
 
 ## 📸 Pages Preview
 
-- Homepage  
+- Home
 - Issues
 - Blogs/Works
 - Artists Community
